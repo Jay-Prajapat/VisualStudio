@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VS_Practical.props" />
+</Project>
